@@ -1,0 +1,2055 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "pageOffset": {
+            "nextOffset": "CJhlELQ4KIDIu4O1/OOmOTCnEzgE",
+            "widgetOffset": {
+                "NewListingView_category_bar_chicletranking_TwoRows": "",
+                "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+                "Restaurant_Group_WebView_SEO_PB_Theme": "",
+                "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "9",
+                "inlineFacetFilter": "",
+                "restaurantCountWidget": ""
+            }
+        },
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "header": {
+                            "title": "What's on your mind?",
+                            "headerStyling": {
+                                "padding": {
+                                    "left": 16,
+                                    "top": 16,
+                                    "bottom": 4
+                                }
+                            }
+                        },
+                        "layout": {
+                            "rows": 1,
+                            "columns": 10,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 24,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 8,
+                                    "top": 8,
+                                    "right": 12,
+                                    "bottom": 4
+                                }
+                            },
+                            "scrollBar": {},
+                            "widgetTheme": {
+                                "defaultMode": {
+                                    "backgroundColour": "#FFFFFF",
+                                    "theme": "THEME_TYPE_LIGHT"
+                                },
+                                "darkMode": {
+                                    "theme": "THEME_TYPE_DARK"
+                                }
+                            }
+                        },
+                        "imageGridCards": {
+                            "info": [
+                                {
+                                    "id": "750581",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                                        "text": "North Indian",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for north indian",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "description": "North Indian"
+                                },
+                                {
+                                    "id": "750579",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+                                        "text": "Pizzas",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for pizza",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=83631&tags=layout_CCS_Pizza&search_context=pizza",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "description": "Pizzas"
+                                },
+                                {
+                                    "id": "750585",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
+                                        "text": "South Indian",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for south indian",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "description": "South Indian"
+                                }
+                            ],
+                            "style": {
+                                "width": {
+                                    "type": "TYPE_RELATIVE",
+                                    "value": 0.2941,
+                                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                                },
+                                "height": {
+                                    "type": "TYPE_RELATIVE",
+                                    "value": 1.2444,
+                                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                                }
+                            }
+                        },
+                        "id": "whats_on_your_mind",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
+                                "info": [
+                                    {
+                                        "id": "750581",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                                            "text": "North Indian",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for north indian",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "description": "North Indian"
+                                    },
+                                    {
+                                        "id": "750579",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+                                            "text": "Pizzas",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for pizza",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=83631&tags=layout_CCS_Pizza&search_context=pizza",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "description": "Pizzas"
+                                    },
+                                    {
+                                        "id": "750585",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/83634?collection_id=83634&search_context=southindian&tags=layout_CCS_SouthIndian&type=rcv2",
+                                            "text": "South Indian",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for south indian",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "description": "South Indian"
+                                    }
+                                ],
+                                "style": {
+                                    "width": {
+                                        "type": "TYPE_RELATIVE",
+                                        "value": 0.2941,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                                    },
+                                    "height": {
+                                        "type": "TYPE_RELATIVE",
+                                        "value": 1.2444,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "header": {
+                            "title": "Top restaurant chains in Indore",
+                            "action": {},
+                            "headerStyling": {
+                                "padding": {
+                                    "left": 16,
+                                    "top": 28,
+                                    "bottom": 18
+                                }
+                            }
+                        },
+                        "layout": {
+                            "rows": 1,
+                            "columns": 20,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 32,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 16,
+                                    "right": 12,
+                                    "bottom": 12
+                                }
+                            },
+                            "scrollBar": {
+                                "scrollThumbColor": "#E46D47",
+                                "scrollTrackColor": "#02060C",
+                                "width": 54,
+                                "height": 4,
+                                "scrollStyling": {
+                                    "padding": {
+                                        "top": 6,
+                                        "bottom": 24
+                                    }
+                                }
+                            },
+                            "widgetTheme": {
+                                "defaultMode": {
+                                    "backgroundColour": "#1B3028",
+                                    "theme": "THEME_TYPE_DARK"
+                                },
+                                "darkMode": {
+                                    "backgroundColour": "#1B3028",
+                                    "theme": "THEME_TYPE_DARK"
+                                }
+                            }
+                        },
+                        "id": "top_brands_for_you",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                                "restaurants": [
+                                    {
+                                        "info": {
+                                            "id": "84070",
+                                            "name": "Gurukripa Restaurant - Sarwate",
+                                            "cloudinaryImageId": "g5txnz35wlrgbskk3r8y",
+                                            "locality": "Sarwate",
+                                            "areaName": "South Tukoganj",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Thalis",
+                                                "Indian",
+                                                "Fast Food",
+                                                "Chinese",
+                                                "Beverages",
+                                                "Desserts",
+                                                "Jain",
+                                                "Punjabi"
+                                            ],
+                                            "avgRating": 4,
+                                            "veg": true,
+                                            "parentId": "92204",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 2.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "2.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/gurukripa-restaurant-sarwate-sarwate-south-tukoganj-indore-84070",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "359782",
+                                            "name": "Grameen Kulfi",
+                                            "cloudinaryImageId": "wsm4rrcc2ed2ves9kvoi",
+                                            "locality": "SHRIKRISNA CHAMBER",
+                                            "areaName": "DHENU MARKET",
+                                            "costForTwo": "₹120 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "veg": true,
+                                            "parentId": "12175",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 18,
+                                                "lastMileTravel": 1.2,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "15-20 mins",
+                                                "lastMileTravelString": "1.2 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/grameen-kulfi-shrikrisna-chamber-dhenu-market-indore-359782",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "722753",
+                                            "name": "Wow! China",
+                                            "cloudinaryImageId": "95982cfa57cb3b7e504f2015c375fd55",
+                                            "locality": "Vishla Tower",
+                                            "areaName": "Vijay Nagar",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Tibetan",
+                                                "Chinese",
+                                                "Asian",
+                                                "Snacks",
+                                                "Continental",
+                                                "Desserts",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4,
+                                            "parentId": "226836",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 4.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 02:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Chinese.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Chinese.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/wow-china-vishla-tower-vijay-nagar-indore-722753",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "74958",
+                                            "name": "Hotel Zakir",
+                                            "cloudinaryImageId": "pmpoofo6nnvnjvqzsbjd",
+                                            "locality": "Khajrana",
+                                            "areaName": "Khajrana",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Mughlai",
+                                                "Biryani",
+                                                "North Indian"
+                                            ],
+                                            "avgRating": 3.8,
+                                            "parentId": "9461",
+                                            "avgRatingString": "3.8",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 33,
+                                                "lastMileTravel": 4.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "60% OFF",
+                                                "subHeader": "UPTO ₹120"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.0",
+                                                    "ratingCount": "1K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/hotel-zakir-khajrana-indore-74958",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "62185",
+                                            "name": "Sam's Momos",
+                                            "cloudinaryImageId": "wrwrngygzztx6lh1wpfn",
+                                            "locality": "New Palasia",
+                                            "areaName": "New Palasia",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Chinese",
+                                                "Snacks",
+                                                "Pastas"
+                                            ],
+                                            "avgRating": 4,
+                                            "parentId": "176744",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 24,
+                                                "lastMileTravel": 1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "20-25 mins",
+                                                "lastMileTravelString": "1.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Chinese.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Chinese.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹75 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/sams-momos-new-palasia-indore-62185",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "762427",
+                                            "name": "Goila Butter Chicken",
+                                            "cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
+                                            "locality": "Upper Ground Floor of Property",
+                                            "areaName": "Vijay Nagar",
+                                            "costForTwo": "₹600 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Biryani",
+                                                "Kebabs",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.1,
+                                            "parentId": "322587",
+                                            "avgRatingString": "4.1",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "newg.png",
+                                                        "description": "Gourmet"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Gourmet",
+                                                                    "imageId": "newg.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/goila-butter-chicken-upper-ground-floor-of-property-vijay-nagar-indore-762427",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "580590",
+                                            "name": "GetAWay-Ice Creams & Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/9/5831bbb8-ad32-4c1e-8aa1-8b090b10d6aa_580590.jpg",
+                                            "locality": "Scheme No. 54",
+                                            "areaName": "Vijay Nagar",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts",
+                                                "Healthy Food",
+                                                "Sweets"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "veg": true,
+                                            "parentId": "354819",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "4.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹199"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/getaway-ice-creams-and-desserts-scheme-no-54-vijay-nagar-indore-580590",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "420299",
+                                            "name": "McDonald's Gourmet Burger Collection",
+                                            "cloudinaryImageId": "ypvabouilublkshhwuh8",
+                                            "locality": "Malhar Mega Mall",
+                                            "areaName": "Vijay Nagar",
+                                            "costForTwo": "₹500 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "Beverages",
+                                                "Cafe",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 3.9,
+                                            "parentId": "10761",
+                                            "avgRatingString": "3.9",
+                                            "totalRatingsString": "50+",
+                                            "sla": {
+                                                "deliveryTime": 28,
+                                                "lastMileTravel": 3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "3.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-malhar-mega-mall-vijay-nagar-indore-420299",
+                                            "type": "WEBLINK"
+                                        }
+                                    },                                    
+                                    {
+                                        "info": {
+                                            "id": "409708",
+                                            "name": "La Milano Pizzeria",
+                                            "cloudinaryImageId": "doscous22qmcgpr9jnft",
+                                            "locality": "Scheme-54",
+                                            "areaName": "Scheme 54",
+                                            "costForTwo": "₹199 for two",
+                                            "cuisines": [
+                                                "Italian",
+                                                "Pizzas",
+                                                "Pastas",
+                                                "Snacks"
+                                            ],
+                                            "avgRating": 3.9,
+                                            "veg": true,
+                                            "parentId": "22533",
+                                            "avgRatingString": "3.9",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 4.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "10% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/la-milano-pizzeria-scheme-54-indore-409708",
+                                            "type": "WEBLINK"
+                                        }
+                                    }
+                                ],
+                                "theme": "Restaurant_Group_WebView_SEO_PB_Theme",
+                                "widgetType": "WIDGET_TYPE_POPULAR_BRANDS",
+                                "style": {
+                                    "width": {
+                                        "type": "TYPE_RELATIVE",
+                                        "value": 0.41111112,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_DEVICE_WIDTH"
+                                    },
+                                    "height": {
+                                        "type": "TYPE_RELATIVE",
+                                        "value": 0.7027027,
+                                        "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                                    },
+                                    "layoutAlignment": "LAYOUT_ALIGNMENT_LEFT"
+                                },
+                                "collectionId": "84124"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BasicContent",
+                        "title": "Restaurants with online food delivery in Indore",
+                        "id": "popular_restaurants_title"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.InlineViewFilterSortWidget",
+                        "sortConfigs": [
+                            {
+                                "key": "relevance",
+                                "title": "Relevance(Default)",
+                                "selected": true,
+                                "defaultSelection": true
+                            },
+                            {
+                                "key": "deliveryTimeAsc",
+                                "title": "DeliveryTime"
+                            },
+                            {
+                                "key": "modelBasedRatingDesc",
+                                "title": "Rating"
+                            },
+                            {
+                                "key": "costForTwoAsc",
+                                "title": "Cost:LowtoHigh"
+                            },
+                            {
+                                "key": "costForTwoDesc",
+                                "title": "Cost:HightoLow"
+                            }
+                        ],
+                        "restaurantCount": 2000,
+                        "facetList": [
+                            {
+                                "label": "Delivery Time",
+                                "id": "deliveryTime",
+                                "selection": "SELECT_TYPE_MULTISELECT",
+                                "facetInfo": [
+                                    {
+                                        "label": "Fast Delivery",
+                                        "id": "deliveryTimefacetquery1",
+                                        "analytics": {},
+                                        "openFilter": true
+                                    }
+                                ],
+                                "viewType": "VIEW_TYPE_HALF_CARD",
+                                "subLabel": "Filterby"
+                            },
+                            {
+                                "label": "Cuisines",
+                                "id": "catalog_cuisines",
+                                "selection": "SELECT_TYPE_MULTISELECT",
+                                "facetInfo": [
+                                    {
+                                        "label": "Afghani",
+                                        "id": "query_afghani",
+                                        "analytics": {},
+                                        "openFilter": true
+                                    },
+                                    {
+                                        "label": "American",
+                                        "id": "query_american",
+                                        "analytics": {},
+                                        "openFilter": true
+                                    }
+                                    
+                                ],
+                                "viewType": "VIEW_TYPE_HALF_CARD",
+                                "subLabel": "Filterby"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "columns": 4
+                        },
+                        "id": "restaurant_grid_listing",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                                "restaurants": [
+                                    {
+                                        "info": {
+                                            "id": "729652",
+                                            "name": "Burger Farm",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/10/213a964e-8671-4d10-aed6-4d5f0b4e2441_729652.JPG",
+                                            "locality": "Street no 1",
+                                            "areaName": "South Tukoganj",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "Fast Food"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "veg": true,
+                                            "parentId": "4660",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "500+",
+                                            "sla": {
+                                                "deliveryTime": 22,
+                                                "lastMileTravel": 1.4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "20-25 mins",
+                                                "lastMileTravelString": "1.4 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹100 OFF",
+                                                "subHeader": "ABOVE ₹299",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/burger-farm-street-no-1-south-tukoganj-indore-729652",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "84070",
+                                            "name": "Gurukripa Restaurant - Sarwate",
+                                            "cloudinaryImageId": "g5txnz35wlrgbskk3r8y",
+                                            "locality": "Sarwate",
+                                            "areaName": "South Tukoganj",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Thalis",
+                                                "Indian",
+                                                "Fast Food",
+                                                "Chinese",
+                                                "Beverages",
+                                                "Desserts",
+                                                "Jain",
+                                                "Punjabi"
+                                            ],
+                                            "avgRating": 4,
+                                            "veg": true,
+                                            "parentId": "92204",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 2.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "2.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/gurukripa-restaurant-sarwate-sarwate-south-tukoganj-indore-84070",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "103357",
+                                            "name": "Gurukripa Southtukoganj (Dutt)",
+                                            "cloudinaryImageId": "wbhvshhcwdzvrvuxfpsq",
+                                            "locality": "South Tukoganj",
+                                            "areaName": "South Tukoganj",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "South Indian",
+                                                "Chinese",
+                                                "Snacks",
+                                                "Thalis",
+                                                "Desserts",
+                                                "Punjabi",
+                                                "Beverages",
+                                                "Indian",
+                                                "Jain"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "veg": true,
+                                            "parentId": "92206",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 22,
+                                                "lastMileTravel": 1.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "20-25 mins",
+                                                "lastMileTravelString": "1.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.1",
+                                                    "ratingCount": "10K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/gurukripa-southtukoganj-dutt-south-tukoganj-indore-103357",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "86648",
+                                            "name": "Shree Gurukripa",
+                                            "cloudinaryImageId": "cb1h7bmdd9hsbxvlix8f",
+                                            "locality": "Vijay Nagar",
+                                            "areaName": "Vijay Nagar",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Thalis",
+                                                "South Indian",
+                                                "Desserts",
+                                                "Chinese",
+                                                "Indian",
+                                                "Jain",
+                                                "Fast Food",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4,
+                                            "parentId": "184671",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "5.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-03 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "3.9",
+                                                    "ratingCount": "10K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/shree-gurukripa-vijay-nagar-indore-86648",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "359782",
+                                            "name": "Grameen Kulfi",
+                                            "cloudinaryImageId": "wsm4rrcc2ed2ves9kvoi",
+                                            "locality": "SHRIKRISNA CHAMBER",
+                                            "areaName": "DHENU MARKET",
+                                            "costForTwo": "₹120 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "veg": true,
+                                            "parentId": "12175",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 18,
+                                                "lastMileTravel": 1.2,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "15-20 mins",
+                                                "lastMileTravelString": "1.2 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/grameen-kulfi-shrikrisna-chamber-dhenu-market-indore-359782",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "78273",
+                                            "name": "Ansh Restaurant",
+                                            "cloudinaryImageId": "kdbuuhsk3yh0j8ubtl1a",
+                                            "locality": "South Tukoganj",
+                                            "areaName": "Kanchan Bagh",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Indian",
+                                                "Chinese",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.1,
+                                            "veg": true,
+                                            "parentId": "34371",
+                                            "avgRatingString": "4.1",
+                                            "totalRatingsString": "5K+",
+                                            "sla": {
+                                                "deliveryTime": 22,
+                                                "lastMileTravel": 1.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "20-25 mins",
+                                                "lastMileTravelString": "1.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                                                        "description": "OnlyOnSwiggy"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "OnlyOnSwiggy",
+                                                                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "60% OFF",
+                                                "subHeader": "UPTO ₹130"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/ansh-restaurant-south-tukoganj-kanchan-bagh-indore-78273",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "102751",
+                                            "name": "Dawar Restaurant",
+                                            "cloudinaryImageId": "ukqtdrxjrkwxc2ojnlcy",
+                                            "locality": "Mg Road",
+                                            "areaName": "New Palasia",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "North Indian"
+                                            ],
+                                            "avgRating": 3.4,
+                                            "veg": true,
+                                            "parentId": "68855",
+                                            "avgRatingString": "3.4",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 19,
+                                                "lastMileTravel": 1.5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "15-20 mins",
+                                                "lastMileTravelString": "1.5 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 01:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹100 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/dawar-restaurant-mg-road-new-palasia-indore-102751",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "663312",
+                                            "name": "Veer Ji Malai Chaap Wale",
+                                            "cloudinaryImageId": "0c67c207651045673c378667b75d6791",
+                                            "locality": "Dukan Street",
+                                            "areaName": "New Palasia",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Indian",
+                                                "Tandoor",
+                                                "Thalis",
+                                                "Biryani"
+                                            ],
+                                            "avgRating": 3.7,
+                                            "parentId": "12056",
+                                            "avgRatingString": "3.7",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "1.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-08-04 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "20% OFF",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.4",
+                                                    "ratingCount": "10K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/veer-ji-malai-chaap-wale-dukan-street-new-palasia-indore-663312",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    }
+                                ],
+                                "theme": "SeoRestaurantListingGridWidget"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.ShowMoreButton",
+                        "message": "Show More",
+                        "id": "show_more_button"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BrandsContent",
+                        "title": "Best Places to Eat Across Cities",
+                        "brands": [
+                            {
+                                "text": "Best Restaurants in Bangalore",
+                                "link": "https://www.swiggy.com/city/bangalore/best-restaurants"
+                            },
+                            {
+                                "text": "Best Restaurants in Pune",
+                                "link": "https://www.swiggy.com/city/pune/best-restaurants"
+                            },
+                            {
+                                "text": "Best Restaurants in Mumbai",
+                                "link": "https://www.swiggy.com/city/mumbai/best-restaurants"
+                            }
+                            
+                        ],
+                        "id": "restaurant_near_me_links"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BrandsContent",
+                        "title": "Best Cuisines Near Me",
+                        "brands": [
+                            {
+                                "text": "Chinese Restaurant Near Me",
+                                "link": "https://www.swiggy.com/chinese-restaurants-near-me"
+                            },
+                            {
+                                "text": "South Indian Restaurant Near Me",
+                                "link": "https://www.swiggy.com/south-indian-restaurants-near-me"
+                            },
+                            {
+                                "text": "Indian Restaurant Near Me",
+                                "link": "https://www.swiggy.com/indian-restaurants-near-me"
+                            }
+                            
+                        ],
+                        "id": "restaurant_near_me_links"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BrandsContent",
+                        "title": "Explore Every Restaurants Near Me",
+                        "brands": [
+                            {
+                                "text": "Explore Restaurants Near Me",
+                                "link": "https://www.swiggy.com/restaurants-near-me"
+                            },
+                            {
+                                "text": "Explore Top Rated Restaurants Near Me",
+                                "link": "https://www.swiggy.com/best-restaurants-near-me"
+                            }
+                        ],
+                        "id": "restaurant_near_me_links"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.AppInstallLinks",
+                        "title": "For better experience,download the Swiggy app now",
+                        "androidAppImage": "portal/m/play_store.png",
+                        "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                        "iosAppImage": "portal/m/app_store.png",
+                        "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage",
+                        "id": "app_install_links"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FooterContent",
+                        "cities": [
+                            {
+                                "text": "Bangalore",
+                                "link": "https://www.swiggy.com/city/bangalore"
+                            }
+                        ],
+                        "id": "footer_content"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.seo.widgets.v1.MetaContext",
+                        "citySlug": "indore",
+                        "lat": "22.7244979",
+                        "lng": "75.8773594",
+                        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+                        "gandalfRequest": "{\"sortAttribute\":\"relevance\",\"isFiltered\":false,\"queryId\":\"seo-data-fb2bed8c-3b98-4590-a4e6-c55d1e2e889e\",\"seoParams\":{\"apiName\":\"FoodHomePage\",\"brandId\":\"\",\"seoUrl\":\"www.swiggy.com\",\"pageType\":\"FOOD_HOME_PAGE\"}}",
+                        "id": "meta_data",
+                        "metaInfo": {
+                            "pageType": "FOOD_HOME_PAGE",
+                            "pageTitle": "Order Food Online from India's Best Food Delivery Service | Swiggy",
+                            "pageMetaDescription": "Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi and more. Order Pizzas, Biryanis, from Swiggy.",
+                            "pageKeywords": "Food delivery, Online food order, Online food dleivery"
+                        },
+                        "screenType": "filteredCollection",
+                        "seoParams": {
+                            "apiName": "FoodHomePage",
+                            "seoUrl": "www.swiggy.com",
+                            "pageType": "FOOD_HOME_PAGE"
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "cacheExpiryTime": 240,
+        "nextFetch": 1
+    },
+    "tid": "4c444d6e-6a45-44c0-81cc-5c0afcdd3eb3",
+    "sid": "fbxac97a-2f31-4270-b127-83e390ccc2e6",
+    "deviceId": "28936552-48fb-89be-52dc-54bde478e297",
+    "csrfToken": "hYYgMDMrdUO5-bdff_paxcIhz_tuQlC96itVQG0E"
+}
