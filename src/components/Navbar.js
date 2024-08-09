@@ -20,9 +20,7 @@ function Navbar() {
                     <li>Offers</li>
                     <li>Help</li>
                     <li>Sign-in</li>
-                    <Tooltip title="View Your Cart"> <li>
-       <span> Cart</span>
-     </li> </Tooltip>
+                    <li> <Tooltip   title ="Trial">Cart </Tooltip></li>
                 </ul>
                 </div>
             </div>
