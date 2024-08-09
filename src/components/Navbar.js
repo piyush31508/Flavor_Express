@@ -1,6 +1,13 @@
-import Tooltip from '@mui/material/Tooltip';
-
+import CustomWidthTooltip from './Common/CustomWidthTooltip';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCartOutlined';
+import PersonIcon from '@mui/icons-material/PersonOutlined';
+import HelpIcon from '@mui/icons-material/CatchingPokemon';
+import SearchIcon from '@mui/icons-material/Search';
+import WorkIcon from '@mui/icons-material/Work';
+import OfferIcon from '@mui/icons-material/LocalOfferOutlined';
 function Navbar() {
+    const ltext=`Good food is always cooking! 
+    Go ahead, order some yummy items from the menu`;
     return (
         <>
             <div className="h-[80px] top-0 left-0 right-0 flex justify-evenly  fixed shadow-xl w-full z-50 bg-white">
@@ -15,12 +22,12 @@ function Navbar() {
                     Others
                 </div>
                 <ul className="flex justify-evenly w-full">
-                    <li>Swiggy Corporate</li>
-                    <li>Search</li>
-                    <li>Offers</li>
-                    <li>Help</li>
-                    <li>Sign-in</li>
-                    <li> <Tooltip   title ="Trial">Cart </Tooltip></li>
+                    <li><WorkIcon style={{marginRight:'5px'}}/>Swiggy Corporate</li>
+                    <li><SearchIcon style={{marginRight:'5px'}}/>Search</li>
+                    <li><OfferIcon style={{marginRight:'5px'}} />Offers</li>
+                    <li><HelpIcon style={{marginRight:'5px'}}/>Help</li>
+                    <li><PersonIcon  style={{marginRight:'5px'}}/>Sign-in</li>
+                    <li><ShoppingCartIcon  sx={{ color: '#3d4152' }} /> <CustomWidthTooltip  title ={<div className='p-5 border-t-5  border-red-600'><div className='text-xl text-[#3d4152]'>Card Empty</div><p className='text-gray-400'>{ltext}</p></div>} arrow >Cart </CustomWidthTooltip></li>
                 </ul>
                 </div>
             </div>
